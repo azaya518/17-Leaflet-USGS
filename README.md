@@ -1,1 +1,1 @@
-# 17-Leaflet-USGS-Visualizing-Data-with-Leaflet
+# 17-USGS-Visualizing-Data-with-Leaflet
